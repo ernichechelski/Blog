@@ -3,7 +3,7 @@ layout: post
 title: Welcome traveler 👋 
 date: 2020-01-01 13:32:20 +0300
 description: Initial message for reader.
-img: under-construction.jpg # Add image post (optional)
+img: under-construction.png # Add image post (optional)
 fig-caption: # Add figcaption (optional)
 tags: [First]
 ---
