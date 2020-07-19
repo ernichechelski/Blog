@@ -7,4 +7,4 @@ img: under-construction.png # Add image post (optional)
 fig-caption: # Add figcaption (optional)
 tags: [First]
 ---
-This site currently is under construction, so currently, there is not anything valuable here. Please proceed with searching for interesting ideas on the web 🌎
+This site currently is under construction, so there is not anything valuable here. Please proceed with searching for interesting ideas on the web 🌎
